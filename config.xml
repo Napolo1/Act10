@@ -14,8 +14,8 @@
   <plugin name="cordova-plugin-device"/>
   <plugin name="cordova-plugin-camera"/>
 
-  <feature name="Compass">
-    <param name="android-package" value="org.apache.cordova.CompassListener" />
+<feature name="Compass">
+    <param name="android-package" value="org.apache.cordova.deviceorientation.CompassListener" />
 </feature>
   
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
