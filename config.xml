@@ -13,7 +13,7 @@
   <plugin name="cordova-plugin-dialogs"/>
   <plugin name="cordova-plugin-device"/>
   <plugin name="cordova-plugin-camera"/>
-  <plugin name="cordova-plugin-compass"/>
+  <plugin name="cordova-plugin-magnetometer"/>
 
   
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
