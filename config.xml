@@ -14,7 +14,7 @@
   <plugin name="cordova-plugin-device"/>
   <plugin name="cordova-plugin-camera"/>
   <plugin name="cordova-plugin-media-capture"/>
-  <plugin name="cordova-plugin-media-compass"/>  
+  <plugin name="Compass" value="org.apache.cordova.CompassListener" /> 
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 <uses-permission android:name="android.permission.RECORD_AUDIO" />
 <uses-permission android:name="android.permission.RECORD_VIDEO" />
